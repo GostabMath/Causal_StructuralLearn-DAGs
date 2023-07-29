@@ -1,2 +1,3 @@
 # Causal_StructuralLearn-DAGs
- This is a study program for people who gain sufficient familiarity with another famous framework-Potential Outcomes proposed by Rubin and who want to investigate causal world in another point of view. We will introduce DAGs framework by examing a new survey article.
+
+>If you have already gained sufficient familiarity with the renowned Potential Outcomes framework proposed by Rubin, we invite you to explore causality from another perspective. Our study program focuses on investigating causal relationships through the Directed Acyclic Graphs (DAGs) framework.
